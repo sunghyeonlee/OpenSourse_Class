@@ -1,4 +1,5 @@
-def findMax(a,b,c):
+
+def findMax(a, b, c):
 	if a>b:
 	    biggest=a
 	else:
